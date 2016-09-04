@@ -1,4 +1,4 @@
-LabVIEW Scripting
+LV-Scripting
 =================
 
 LV-Scripting is an open source LabVIEW library for code generation using VI Scripting. It aims to make the scripting code used in XNodes and other edit-time code generation tools easier to write, more concise, and more readable.
@@ -28,9 +28,4 @@ This LV-Scripting code:
 
 Generates this VI:
 
-![LV-Scripting Output](/images/example-output.png?raw=true)
-
-
-
-
- 
+![LV-Scripting Output](/images/example-output.png?raw=true) 

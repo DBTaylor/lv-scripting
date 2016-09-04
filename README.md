@@ -6,7 +6,7 @@ LV-Scripting is an open source LabVIEW library for code generation using VI Scri
 Installation
 ------------
 
-[The most recent VI Package (.vip) can be downloaded here.](https://github.com/DBTaylor)
+[The most recent VI Package (.vip) can be downloaded here.](https://github.com/DBTaylor/lv-scripting/releases)
 
 Open the VI Package using [VI Package Manager](http://vipm.jki.net/) and press ***Install***.
 

@@ -23,10 +23,10 @@ Example
 -------
 
 This LV-Scripting code:
-[![LV-Scripting Code](https://github.com/DBTaylor/lv-scripting/tree/master/images/example-code.png]
+![LV-Scripting Code](/images/example-code.png?raw=true)
 
 Generates this VI:
-[![LV-Scripting Output](https://github.com/DBTaylor/lv-scripting/tree/master/images/example-output.png)]
+![LV-Scripting Output](/images/example-output.png?raw=true)
 
 
 

@@ -109,6 +109,9 @@
 				<Item Name="Exit In Place Element DVR.vi" Type="VI" URL="../Exit In Place Element DVR.vi"/>
 			</Item>
 		</Item>
+		<Item Name="Sequence" Type="Folder">
+			<Item Name="Create Sequence.vi" Type="VI" URL="../Create Sequence.vi"/>
+		</Item>
 		<Item Name="While Loop" Type="Folder">
 			<Item Name="Create While Loop.vi" Type="VI" URL="../Create While Loop.vi"/>
 			<Item Name="Exit While Loop.vi" Type="VI" URL="../Exit While Loop.vi"/>

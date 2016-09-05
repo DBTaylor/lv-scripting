@@ -34,6 +34,7 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Array" Type="Folder">
+		<Item Name="Create Array Size.vi" Type="VI" URL="../Create Array Size.vi"/>
 		<Item Name="Create Array Subset.vi" Type="VI" URL="../Create Array Subset.vi"/>
 		<Item Name="Create Index Array.vi" Type="VI" URL="../Create Index Array.vi"/>
 		<Item Name="Create Replace Array Subset.vi" Type="VI" URL="../Create Replace Array Subset.vi"/>

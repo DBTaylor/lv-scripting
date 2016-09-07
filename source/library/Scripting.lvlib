@@ -127,6 +127,7 @@
 	<Item Name="Conditionally Connect Wire.vi" Type="VI" URL="../Conditionally Connect Wire.vi"/>
 	<Item Name="Create Constant.vi" Type="VI" URL="../Create Constant.vi"/>
 	<Item Name="Create SubVI.vi" Type="VI" URL="../Create SubVI.vi"/>
+	<Item Name="Create Typedef Constant.vi" Type="VI" URL="../Create Typedef Constant.vi"/>
 	<Item Name="Get Cluster Element Type.vi" Type="VI" URL="../Get Cluster Element Type.vi"/>
 	<Item Name="Get Controls.vi" Type="VI" URL="../Get Controls.vi"/>
 	<Item Name="Get Outputs.vi" Type="VI" URL="../Get Outputs.vi"/>

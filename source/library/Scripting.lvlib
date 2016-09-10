@@ -36,8 +36,13 @@
 	<Item Name="Array" Type="Folder">
 		<Item Name="Create Array Size.vi" Type="VI" URL="../Create Array Size.vi"/>
 		<Item Name="Create Array Subset.vi" Type="VI" URL="../Create Array Subset.vi"/>
+		<Item Name="Create Build Array.vi" Type="VI" URL="../Create Build Array.vi"/>
 		<Item Name="Create Index Array.vi" Type="VI" URL="../Create Index Array.vi"/>
 		<Item Name="Create Replace Array Subset.vi" Type="VI" URL="../Create Replace Array Subset.vi"/>
+	</Item>
+	<Item Name="Boolean" Type="Folder">
+		<Item Name="Create And Array Elements.vi" Type="VI" URL="../Create And Array Elements.vi"/>
+		<Item Name="Create Or Array Elements.vi" Type="VI" URL="../Create Or Array Elements.vi"/>
 	</Item>
 	<Item Name="Class" Type="Folder">
 		<Item Name="Create Property Node.vi" Type="VI" URL="../Create Property Node.vi"/>
@@ -128,6 +133,7 @@
 	<Item Name="Create Constant.vi" Type="VI" URL="../Create Constant.vi"/>
 	<Item Name="Create SubVI.vi" Type="VI" URL="../Create SubVI.vi"/>
 	<Item Name="Create Typedef Constant.vi" Type="VI" URL="../Create Typedef Constant.vi"/>
+	<Item Name="Get Cluster Element Names.vi" Type="VI" URL="../Get Cluster Element Names.vi"/>
 	<Item Name="Get Cluster Element Type.vi" Type="VI" URL="../Get Cluster Element Type.vi"/>
 	<Item Name="Get Controls.vi" Type="VI" URL="../Get Controls.vi"/>
 	<Item Name="Get Outputs.vi" Type="VI" URL="../Get Outputs.vi"/>

@@ -33,6 +33,16 @@
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="Application Control" Type="Folder">
+		<Item Name="Create Close Reference.vi" Type="VI" URL="../Create Close Reference.vi"/>
+		<Item Name="Create Invoke Node.vi" Type="VI" URL="../Create Invoke Node.vi"/>
+		<Item Name="Create Open VI Reference.vi" Type="VI" URL="../Create Open VI Reference.vi"/>
+		<Item Name="Create Property Node.vi" Type="VI" URL="../Create Property Node.vi"/>
+		<Item Name="Create Start Asynchronous Call.vi" Type="VI" URL="../Create Start Asynchronous Call.vi"/>
+		<Item Name="Create Static VI Reference.vi" Type="VI" URL="../Create Static VI Reference.vi"/>
+		<Item Name="Create To More Specific Class.vi" Type="VI" URL="../Create To More Specific Class.vi"/>
+		<Item Name="Create Wait on Asynchronous Call.vi" Type="VI" URL="../Create Wait on Asynchronous Call.vi"/>
+	</Item>
 	<Item Name="Array" Type="Folder">
 		<Item Name="Create Array Size.vi" Type="VI" URL="../Create Array Size.vi"/>
 		<Item Name="Create Array Subset.vi" Type="VI" URL="../Create Array Subset.vi"/>
@@ -43,10 +53,6 @@
 	<Item Name="Boolean" Type="Folder">
 		<Item Name="Create And Array Elements.vi" Type="VI" URL="../Create And Array Elements.vi"/>
 		<Item Name="Create Or Array Elements.vi" Type="VI" URL="../Create Or Array Elements.vi"/>
-	</Item>
-	<Item Name="Class" Type="Folder">
-		<Item Name="Create Property Node.vi" Type="VI" URL="../Create Property Node.vi"/>
-		<Item Name="Create To More Specific Class.vi" Type="VI" URL="../Create To More Specific Class.vi"/>
 	</Item>
 	<Item Name="Cluster" Type="Folder">
 		<Item Name="Create Bundle by Name.vi" Type="VI" URL="../Create Bundle by Name.vi"/>
@@ -79,6 +85,10 @@
 	</Item>
 	<Item Name="Numeric" Type="Folder">
 		<Item Name="Create Add.vi" Type="VI" URL="../Create Add.vi"/>
+	</Item>
+	<Item Name="String" Type="Folder">
+		<Item Name="Create Flatten to String.vi" Type="VI" URL="../Create Flatten to String.vi"/>
+		<Item Name="Create Unflatten from String.vi" Type="VI" URL="../Create Unflatten from String.vi"/>
 	</Item>
 	<Item Name="Structures" Type="Folder">
 		<Item Name="Case Structure" Type="Folder">

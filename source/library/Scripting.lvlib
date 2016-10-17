@@ -83,6 +83,17 @@
 			<Item Name="Create Release Queue.vi" Type="VI" URL="../Create Release Queue.vi"/>
 		</Item>
 	</Item>
+	<Item Name="Data Type" Type="Folder">
+		<Item Name="Get Cluster Element Names.vi" Type="VI" URL="../Get Cluster Element Names.vi"/>
+		<Item Name="Get Cluster Element Type.vi" Type="VI" URL="../Get Cluster Element Type.vi"/>
+		<Item Name="Get Tagged Union Info.vi" Type="VI" URL="../Get Tagged Union Info.vi"/>
+		<Item Name="Is Tagged Union.vi" Type="VI" URL="../Is Tagged Union.vi"/>
+		<Item Name="Set Name.vi" Type="VI" URL="../Set Name.vi"/>
+		<Item Name="Set Tagged Union Info.vi" Type="VI" URL="../Set Tagged Union Info.vi"/>
+		<Item Name="String to Type.vi" Type="VI" URL="../String to Type.vi"/>
+		<Item Name="Type to String.vi" Type="VI" URL="../Type to String.vi"/>
+		<Item Name="Typedef Default Value.vi" Type="VI" URL="../Typedef Default Value.vi"/>
+	</Item>
 	<Item Name="Numeric" Type="Folder">
 		<Item Name="Create Add.vi" Type="VI" URL="../Create Add.vi"/>
 	</Item>
@@ -139,15 +150,17 @@
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Loop Terminal Type.ctl" Type="VI" URL="../Loop Terminal Type.ctl"/>
 	</Item>
+	<Item Name="Variant" Type="Folder">
+		<Item Name="Create Variant to Data.vi" Type="VI" URL="../Create Variant to Data.vi"/>
+	</Item>
 	<Item Name="Conditionally Connect Wire.vi" Type="VI" URL="../Conditionally Connect Wire.vi"/>
 	<Item Name="Create Constant.vi" Type="VI" URL="../Create Constant.vi"/>
 	<Item Name="Create SubVI.vi" Type="VI" URL="../Create SubVI.vi"/>
 	<Item Name="Create Typedef Constant.vi" Type="VI" URL="../Create Typedef Constant.vi"/>
-	<Item Name="Get Cluster Element Names.vi" Type="VI" URL="../Get Cluster Element Names.vi"/>
-	<Item Name="Get Cluster Element Type.vi" Type="VI" URL="../Get Cluster Element Type.vi"/>
 	<Item Name="Get Controls.vi" Type="VI" URL="../Get Controls.vi"/>
 	<Item Name="Get Outputs.vi" Type="VI" URL="../Get Outputs.vi"/>
 	<Item Name="Get Term Type.vi" Type="VI" URL="../Get Term Type.vi"/>
+	<Item Name="Unflatten Name.vi" Type="VI" URL="../Unflatten Name.vi"/>
 	<Item Name="Update Typedef.vi" Type="VI" URL="../Update Typedef.vi"/>
 	<Item Name="Wire Indicators.vi" Type="VI" URL="../Wire Indicators.vi"/>
 	<Item Name="Wire Inputs.vi" Type="VI" URL="../Wire Inputs.vi"/>
